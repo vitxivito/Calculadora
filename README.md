@@ -28,7 +28,7 @@ La calculadora incluye las siguientes funcionalidades:
 
 2. Abre el proyecto en Xcode:
  
- Calculadora.xcodeproj/project.pbxproj
+Calculadora.xcodeproj
   
 
 3. Ejecuta la aplicación en el simulador o en tu dispositivo.
