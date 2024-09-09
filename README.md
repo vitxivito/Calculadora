@@ -24,13 +24,12 @@ La calculadora incluye las siguientes funcionalidades:
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
   https://github.com/vitxivito/Calculadora.git
-   ```
+
 2. Abre el proyecto en Xcode:
-   ```bash
+ 
  Calculadora.xcodeproj/project.pbxproj
-   ```
+  
 
 3. Ejecuta la aplicación en el simulador o en tu dispositivo.
 
