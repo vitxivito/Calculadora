@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de un archivo README para tu proyecto de calculadora simple en Swift:
-
----
-
 # Calculadora Simple en Swift
 
 Este proyecto es una **calculadora básica** desarrollada en **Swift** que permite realizar operaciones aritméticas simples: suma, resta, multiplicación y división. Es una aplicación sencilla diseñada para ser fácil de usar y entender.
